@@ -1,0 +1,131 @@
+Sang_Male
+Wesa
+Cetanwakuwa
+Lonan
+Coowescoowe
+Liwanu
+Chochmo
+Peta
+Ahanu
+Nikan
+Nahiossi
+Chuslum
+Buegoneguig
+Kachada 
+Tuketu
+Askook
+Apisi
+Wapti
+Klah
+Onacona
+Togquos
+
+Sang_Female
+Nahiman
+Haiwee
+Mina
+Ahawi
+Mitena
+Poloma
+Zitkala
+Kosa
+Hausisse
+Migisi
+Huata
+Wenonah
+Chapa
+Kuckunniwi
+Tadewi
+Suletu
+Papina
+Sapata
+Hakidonmuya
+Sipatu
+
+Gah-Uun Deh_Male
+Kang Yeon-Seok
+Ahn Seong-Min
+Kang Song-Hun
+Nam Jung-Min
+Ban Seung-Eun
+Im Dong-Gun
+Ho Se-Yeon
+an Yeong-Gi
+Keum Kwang-Hyun
+Lee Kang-Dae
+Cha Seung-Min
+Kang Gam-Chan
+Chin Kun-Woo
+Kun Yong-Joon
+Jin Jeong-Kyun
+Wu Hae-Il
+Kang Chin-Ho
+Ye Young-Soo
+Pak Chong-Ho
+Ye ill-Song
+
+Gah-Uun Deh_Female
+Kil Seo-Hee
+Mo Se-Jeong
+Oh Yun-Ju
+Lee So-Ran
+Pak So-Yun
+Oh Young-Hee
+Chin Shin-Hye
+Kim Min-Jung
+Kim Bo-Kyung
+An Hyun-Ah
+Pyon Jeong-Ja
+Man So-Yun
+Su Eum-Gyung
+Ogum Ye'un
+Kwak So-Young
+Seol Hyeon-Ran
+Son Su-Yeong
+Nu Yeon-Woo
+Kyong Myung-Sook
+Hyeon Hye-Ok
+
+Ah-reh_Male
+Rashid Salhi
+Candan Beghal
+Lyes Sidi
+Quasim Aboulker
+Nasser Zidane
+Alawi Djebar
+Bader Salem
+Masud Belghoul
+Kardal Benyamina
+Emir Makhloufi
+Faouzi Hamina
+Kasim Hamidou
+Moussa Menouar
+Ebrahim Nasri
+Ashraf Derrida
+Imam Harrachi
+Fakhir Morceli
+Zaid Salem
+Allah Doumaz
+Nasim Madani
+
+Ah-reh_Female
+Noura Djaout
+Cari Aym
+Meriem Fanon
+Nimah Zakaria
+Rahimateh Arkour
+Qitarah Kateb
+Selima Hasnaoui
+Tameka Mekhloufi
+Sadira Aboulker
+Tahirah Ammar
+Nimah Tannoudji
+Ulema Bouteflika
+Siham Makhloufi
+Nina Agha
+Meriem Sidi
+Alimaia Bendjedid
+Naida Djebar
+Atia Amrouche
+Ulima Khalef
+Ayah Amrani
